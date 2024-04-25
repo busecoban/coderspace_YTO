@@ -31,4 +31,4 @@ github student pack
 
 github foundations full course 20 dolar 
 
-
+git head id - önceki commitlere dönme
