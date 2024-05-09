@@ -1,5 +1,13 @@
 # coderspace_YTO
 https://coderspace.io/etkinlikler/yazilim-ve-teknoloji-okulu/
+# 3. Hafta
+- iyzico - Barış Doruk Aren,Murat Melih Işık,Sezgi Ş. - 9 Mayıs - Front-End Development 101 
+
+# 2. Hafta
+
+- Atıl Samancıoğlu - 30 Nisan - Veri Yapıları ve Algoritmalar
+- Serkan Susantez,Hüssam Durak - 2 Mayıs - Back end Development 101
+- Akın Kaldıroğlu - 7 Mayıs -  Back end Development 102
 
 # 1. Hafta 
 
